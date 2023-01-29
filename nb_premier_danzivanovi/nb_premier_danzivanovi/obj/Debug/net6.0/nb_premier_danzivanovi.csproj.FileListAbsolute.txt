@@ -1,0 +1,30 @@
+C:\Visual Studio\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\nb_premier_danzivanovi.csproj.AssemblyReference.cache
+C:\Visual Studio\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\nb_premier_danzivanovi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\nb_premier_danzivanovi.AssemblyInfoInputs.cache
+C:\Visual Studio\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\nb_premier_danzivanovi.AssemblyInfo.cs
+C:\Visual Studio\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\nb_premier_danzivanovi.csproj.CoreCompileInputs.cache
+C:\Visual Studio\nb_premier_danzivanovi\nb_premier_danzivanovi\bin\Debug\net6.0\nb_premier_danzivanovi.exe
+C:\Visual Studio\nb_premier_danzivanovi\nb_premier_danzivanovi\bin\Debug\net6.0\nb_premier_danzivanovi.deps.json
+C:\Visual Studio\nb_premier_danzivanovi\nb_premier_danzivanovi\bin\Debug\net6.0\nb_premier_danzivanovi.runtimeconfig.json
+C:\Visual Studio\nb_premier_danzivanovi\nb_premier_danzivanovi\bin\Debug\net6.0\nb_premier_danzivanovi.dll
+C:\Visual Studio\nb_premier_danzivanovi\nb_premier_danzivanovi\bin\Debug\net6.0\nb_premier_danzivanovi.pdb
+C:\Visual Studio\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\nb_premier_danzivanovi.dll
+C:\Visual Studio\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\refint\nb_premier_danzivanovi.dll
+C:\Visual Studio\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\nb_premier_danzivanovi.pdb
+C:\Visual Studio\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\nb_premier_danzivanovi.genruntimeconfig.cache
+C:\Visual Studio\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\ref\nb_premier_danzivanovi.dll
+C:\Users\danzivanovi\Desktop\nb_premier_danzivanovi\nb_premier_danzivanovi\nb_premier_danzivanovi\bin\Debug\net6.0\nb_premier_danzivanovi.exe
+C:\Users\danzivanovi\Desktop\nb_premier_danzivanovi\nb_premier_danzivanovi\nb_premier_danzivanovi\bin\Debug\net6.0\nb_premier_danzivanovi.deps.json
+C:\Users\danzivanovi\Desktop\nb_premier_danzivanovi\nb_premier_danzivanovi\nb_premier_danzivanovi\bin\Debug\net6.0\nb_premier_danzivanovi.runtimeconfig.json
+C:\Users\danzivanovi\Desktop\nb_premier_danzivanovi\nb_premier_danzivanovi\nb_premier_danzivanovi\bin\Debug\net6.0\nb_premier_danzivanovi.dll
+C:\Users\danzivanovi\Desktop\nb_premier_danzivanovi\nb_premier_danzivanovi\nb_premier_danzivanovi\bin\Debug\net6.0\nb_premier_danzivanovi.pdb
+C:\Users\danzivanovi\Desktop\nb_premier_danzivanovi\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\nb_premier_danzivanovi.csproj.AssemblyReference.cache
+C:\Users\danzivanovi\Desktop\nb_premier_danzivanovi\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\nb_premier_danzivanovi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danzivanovi\Desktop\nb_premier_danzivanovi\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\nb_premier_danzivanovi.AssemblyInfoInputs.cache
+C:\Users\danzivanovi\Desktop\nb_premier_danzivanovi\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\nb_premier_danzivanovi.AssemblyInfo.cs
+C:\Users\danzivanovi\Desktop\nb_premier_danzivanovi\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\nb_premier_danzivanovi.csproj.CoreCompileInputs.cache
+C:\Users\danzivanovi\Desktop\nb_premier_danzivanovi\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\nb_premier_danzivanovi.dll
+C:\Users\danzivanovi\Desktop\nb_premier_danzivanovi\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\refint\nb_premier_danzivanovi.dll
+C:\Users\danzivanovi\Desktop\nb_premier_danzivanovi\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\nb_premier_danzivanovi.pdb
+C:\Users\danzivanovi\Desktop\nb_premier_danzivanovi\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\nb_premier_danzivanovi.genruntimeconfig.cache
+C:\Users\danzivanovi\Desktop\nb_premier_danzivanovi\nb_premier_danzivanovi\nb_premier_danzivanovi\obj\Debug\net6.0\ref\nb_premier_danzivanovi.dll
